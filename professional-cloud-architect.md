@@ -38,7 +38,7 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| 2019/12 | [Professional Cloud Architect - Google Cloud Certification Guide](https://learning.oreilly.com/library/view/professional-cloud-architect/9781838555276/) | Konrad Clapa, Brian Gerrard |
+| 2021/12 | [Professional Cloud Architect - Google Cloud Certification Guide - Second Edition](https://www.packtpub.com/product/professional-cloud-architect-google-cloud-certification-guide-second-edition/9781801812290/) | Konrad Clapa, Brian Gerrard |
 | 2019/11 | [Official Google Cloud Certified Professional Cloud Architect Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Cloud+Architect+Study+Guide-p-9781119602446) | Dan Sullivan |
 | | [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/) | |
 | | [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/) | |
@@ -56,6 +56,7 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| AntonIT Training | [Google Cloud Professional Cloud Architect](https://training.antonit.com/p/google-cloud-professional-cloud-architect) | Antoni Tzavelas|
 | Udemy | [Google Cloud Certification - Professional Cloud Architect](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86) | in28minutes |
 | Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
 | Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
